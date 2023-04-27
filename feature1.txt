@@ -1,3 +1,8 @@
 this is a new feature
+<<<<<<< HEAD
 
 more good changes
+
+
+=======
+>>>>>>> parent of 9602ec3 (another good feature)
