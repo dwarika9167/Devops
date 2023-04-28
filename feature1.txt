@@ -1,8 +1,5 @@
 this is a new feature
-<<<<<<< HEAD
 
-more good changes
+more good changee
+ this code is for new days
 
-
-=======
->>>>>>> parent of 9602ec3 (another good feature)
